@@ -12,6 +12,7 @@
 
 update: 2022-12-12
 
-对于有世界地图需求的小伙伴，这里分享一个（可能不算好用的）链接：https://img.hcharts.cn/mapdata/
+国外地图数据地址：https://img.hcharts.cn/mapdata/
+国内地图数据地址：https://datav.aliyun.com/portal/school/atlas/area_selector
 
-只做分享，能否满足需求和能不能使用就靠自己了
+只做分享，具体能否使用、 能否满足需求和能不能使用就靠自己了
